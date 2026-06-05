@@ -1,6 +1,8 @@
-# Hi 👋, I'm Khaja Mastan Shaik
+# Khaja Mastan Shaik
+AI & Machine Learning Enthusiast | B.Tech Student
+Building practical solutions through technology
 
-🚀 Passionate about AI, Machine Learning, and Software Development
+🚀 Passionate about Artificial Intelligence, Machine Learning, and Software Development
 
 🎯 Building practical solutions through technology and continuous learning
 
