@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi 👋, I'm Khaja Mastan Shaik
+
+🚀 Passionate about AI, Machine Learning, and Software Development
+
+🎯 Building practical solutions through technology and continuous learning
 
 # 💫 About Me:
 🔭 Building a strong foundation in Artificial Intelligence, Machine Learning, and Software Development<br><br>👯 I’m looking to collaborate on impactful projects, hackathons, and open-source contributions<br><br>🤝 I’m looking to connect with developers, innovators, and technology enthusiasts<br><br>🌱 I’m continuously learning, building, and exploring emerging technologies<br><br>💬 Ask me about programming, problem-solving, AI, and technology<br><br>⚡ Fun fact: I enjoy taking on challenges that push me beyond my comfort zone and help me grow as an engineer
